@@ -1,6 +1,6 @@
 ## Hi there! 👋 
 
-I'm **Your Name**, a passionate **Frontend Developer** from Your Country.  
+I'm **Muhammadsaid**, a passionate **Frontend Developer** from Uzbekistan.  
 Currently, I'm working with **React, Next.js, and Zustand**.
 
 ### 🚀 About Me
