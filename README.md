@@ -8,6 +8,7 @@
 - 📚 В настоящее время я изучаю **NextAuth.js и Firebase**.
 - 💬 Спросите меня о **JavaScript, React, Next.js**
 - 📫 Как со мной связаться: [muhammadsaidmm4@gmail.com](mailto:muhammadsaidmm4@gmail.com)
+- 🌍 Посетите мое портфолио: [https://portfolliio.vercel.app](mailto:https://portfolliio.vercel.app)
 
 ### 🎨 Навыки фронтенда
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,7 +24,7 @@
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![RTK Query](https://img.shields.io/badge/RTK_Query-DC143C?style=for-the-badge&logo=redux&logoColor=white)
 
-### 🛠 Инструметы
+### 🛠 Инструменты
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
