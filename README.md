@@ -34,6 +34,6 @@
 🚀 Проверьте мое портфолио: [https://portfolliio.vercel.app](https://portfolliio.vercel.app)
 
 ### 📊 GitHub Статистика
-![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=Myhammadsaid&show_icons=true&theme=dark)
+![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=Myhammadsaid&show_icons=true&theme=radical)
 ![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Myhammadsaid&layout=compact&theme=radical)
 
