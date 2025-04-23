@@ -4,8 +4,8 @@
 В настоящее время я работаю с **React, Next.js и Zustand**.
 
 ### 📌 О себе
-- 🔭 В настоящее время я работаю над **Awesome Project**.
-- 📚 В настоящее время я изучаю **NextAuth.js и Firebase**.
+- 🔭 В настоящее время я работаю над **Clone UzumMarket**.
+- 📚 В настоящее время я изучаю **Next.js по глубже**.
 - 💬 Спросите меня о **JavaScript, React, Next.js**
 - 📫 Как со мной связаться: [muhammadsaidmm4@gmail.com](mailto:muhammadsaidmm4@gmail.com)
 - 🌍 Посетите мое портфолио: [https://portfolliio.vercel.app](mailto:https://portfolliio.vercel.app)
