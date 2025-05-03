@@ -5,7 +5,7 @@
 
 ### 📌 О себе
 - 🔭 В настоящее время я работаю над **Clone UzumMarket**.
-- 📚 В настоящее время я изучаю **Next.js по глубже**.
+- 📚 В настоящее время я изучаю **Node.js**.
 - 💬 Спросите меня о **JavaScript, React, Next.js**
 - 📫 Как со мной связаться: [muhammadsaidmm4@gmail.com](mailto:muhammadsaidmm4@gmail.com)
 - 🌍 Посетите мое портфолио: [https://portfolliio.vercel.app](mailto:https://portfolliio.vercel.app)
