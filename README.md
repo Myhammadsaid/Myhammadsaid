@@ -1,16 +1,16 @@
 ## Привет! 👋 
 
-Я **Мухаммадсаид**, увлеченный **Frontend Developer** из Узбекистана.  
-В настоящее время я работаю с **React, Next.js и Zustand**.
+Я **Мухаммадсаид**, увлеченный **Frontend и начинающий Backend Developer** из Узбекистана.  
+В настоящее время я работаю с **React, Next.js, Zustand** и изучаю **Node.js**.
 
 ### 📌 О себе
 - 🔭 В настоящее время я работаю над **Clone UzumMarket**.
-- 📚 В настоящее время я изучаю **Node.js**.
-- 💬 Спросите меня о **JavaScript, React, Next.js**
+- 📚 Изучаю **Node.js, Express, PostgreSQL, Prisma и JWT**.
+- 💬 Спросите меня о **JavaScript, React, Next.js, Node.js**
 - 📫 Как со мной связаться: [muhammadsaidmm4@gmail.com](mailto:muhammadsaidmm4@gmail.com)
-- 🌍 Посетите мое портфолио: [https://portfolliio.vercel.app](mailto:https://portfolliio.vercel.app)
+- 🌍 Посетите мое портфолио: [https://portfolliio.vercel.app](https://portfolliio.vercel.app)
 
-### 🎨 Навыки фронтенда
+### 💻 Навыки фронтенда
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -23,6 +23,10 @@
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![RTK Query](https://img.shields.io/badge/RTK_Query-DC143C?style=for-the-badge&logo=redux&logoColor=white)
+
+### 🖥️ Навыки бэкенда
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🛠 Инструменты
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -37,4 +41,3 @@
 ### 📊 GitHub Статистика
 ![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=Myhammadsaid&show_icons=true&theme=radical)
 ![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Myhammadsaid&layout=compact&theme=radical)
-
