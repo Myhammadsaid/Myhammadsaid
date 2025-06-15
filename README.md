@@ -8,7 +8,7 @@
 - 📚 Изучаю **Node.js, Express, PostgreSQL, Prisma и JWT**.
 - 💬 Спросите меня о **JavaScript, React, Next.js, Node.js**
 - 📫 Как со мной связаться: [muhammadsaidmm4@gmail.com](mailto:muhammadsaidmm4@gmail.com)
-- 🌍 Посетите мое портфолио: [https://portfolliio.vercel.app](https://portfolliio.vercel.app)
+- 🌍 Посетите мое портфолио: [https://www.muhammadsaid.uz](https://www.muhammadsaid.uz)
 
 ### 💻 Навыки фронтенда
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
