@@ -1,14 +1,12 @@
 ## Привет! 👋 
 
-Я **Мухаммадсаид**, увлеченный **Frontend и начинающий Backend Developer** из Узбекистана.  
+Я **Мухаммадсаид**, увлеченный Full Stack-разработчик из Узбекистана.  
 В настоящее время я работаю с **React, Next.js, Zustand** и изучаю **Node.js**.
 
 ### 📌 О себе
-- 🔭 В настоящее время я работаю над **Clone UzumMarket**.
 - 📚 Изучаю **Node.js, Express, MongoDB, Mongoose и JWT**.
 - 💬 Спросите меня о **JavaScript, React, Next.js, Node.js**
 - 📫 Как со мной связаться: [muhammadsaidmm4@gmail.com](mailto:muhammadsaidmm4@gmail.com)
-- 🌍 Посетите мое портфолио: [https://www.muhammadsaid.uz](https://www.muhammadsaid.uz)
 
 ### 🚀 Навыки фронтенда
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
