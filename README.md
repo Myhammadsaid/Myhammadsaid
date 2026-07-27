@@ -6,7 +6,7 @@
 ### 📌 О себе
 - 📚 Изучаю **Node.js, Express, MongoDB, Mongoose и JWT**.
 - 💬 Спросите меня о **JavaScript, React, Next.js, Node.js**
-- 📫 Как со мной связаться: [muhammadsaidmm4@gmail.com](mailto:muhammadsaidmm4@gmail.com)
+- 📫 Как со мной связаться: [muhammadsaid.org@gmail.com](mailto:muhammadsaid.org@gmail.com)
 
 ### 🚀 Навыки фронтенда
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
